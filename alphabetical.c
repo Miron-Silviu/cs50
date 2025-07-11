@@ -25,8 +25,4 @@ int main(void)
 
         printf("Yes\n");
     }
-
-    // Check if it is alpabetical
-
-    // Print out yes or no
 }
